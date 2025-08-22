@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+*{
+   font-family: "Outfit", sans-serif;
+}
+/* it is use tohide scrollbar many other options also under this see to tit */
+::-webkit-scrollbar{
+  display: none;
+}
